@@ -462,7 +462,8 @@ Step 2: Open Event Viewer
 
 •	Event ID: 4625
 
- <img width="945" height="533" alt="image" src="https://github.com/user-attachments/assets/b3723885-0b75-4dce-9f42-bafe4666dc4a" />
+<img width="786" height="591" alt="image" src="https://github.com/user-attachments/assets/3e6a0d79-13ed-4a9e-9f91-4b319a39f0e6" />
+
 
 Screenshot – failed login is seen in the Event Viewer.
 
